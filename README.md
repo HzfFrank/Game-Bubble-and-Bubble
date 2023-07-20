@@ -1,6 +1,9 @@
 # Game-Bomb-It
 Here is the game Bomb It (also Bubble and Bubble) based on QT &#x1F449;
 
+![58cb0cb1d6975bc0b4bb185ca6d82c4d-2023-07-20 09_05_24](https://github.com/HzfFrank/Game-Bubble-and-Bubble/assets/92738269/44cce02d-6960-4af6-b1c5-1419fabc1543)
+
+
 Do you know the famous and classical game Bubble and Bubble(泡泡堂)? It can't be found in most game platforms, so it's hard for us to experience the past feelings. &#x1F62D;
 
 DO NOT WORRY!
